@@ -25,8 +25,8 @@ namespace DemoPluginNet
         //public const int EM_SETSEL = 0x00B1;
         //public const int WM_PASTE = 0x0302;
 
-        private const string PLUGIN_NAME = "Formatar tabela";
-        private const string PLUGIN_NAME_2 = "Plug-in Icatu by Greg";
+        private const string PLUGIN_NAME = "Align Results";
+        private const string PLUGIN_NAME_2 = "Plug-in by GregPoirson";
         private const int PLUGIN_MENU_INDEX = 10;
 
         private const int CREATE_WINDOW_CALLBACK = 20;
